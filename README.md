@@ -1,4 +1,3 @@
-# Engineering-Comp-Final
 # Engineering Computing Final Project (C Language)
 
 This is my final project from my Engineering Computation class at the University of Oklahoma.
